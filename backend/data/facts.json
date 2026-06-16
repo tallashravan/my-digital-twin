@@ -1,0 +1,44 @@
+{
+  "full_name": "Shravan Talla",
+  "name": "Shravan",
+  "current_role": "Technical Architect",
+  "location": "Hyderabad, India",
+  "email": "shravankumar.talla@gmail.com",
+  "website": "https://shravantalla.com",
+  "linkedin": "linkedin.com/in/shravantalla",
+  "specialties": [
+    "AEM as a Cloud Service Architecture",
+    "Generative AI & Multi-Agent Systems",
+    "Headless CMS & Decoupled Delivery"
+  ],
+  "years_experience": 16,
+  "education": [
+    {
+      "degree": "Bachelor of Technology - Electrical and Electronics Engineering",
+      "institution": "JNTU",
+      "year": "2008"
+    },
+    {
+      "degree": "Diploma in Advanced Computing, CDAC",
+      "institution": "CDAC, Hyderabad",
+      "year": "2009"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Adobe Certified Master – AEM Sites Architect",
+      "issuer": "Adobe",
+      "date": "October 2025"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon",
+      "date": "September 2023"
+    },
+    {
+      "name": "AI Engineering",
+      "issuer": "Scrimba / Coursera",
+      "date": "January 2025"
+    }
+  ]
+}
