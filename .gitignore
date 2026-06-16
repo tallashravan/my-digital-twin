@@ -39,3 +39,7 @@ Thumbs.db
 
 # AWS
 .aws/
+
+.claude/
+
+week2
